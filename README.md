@@ -38,3 +38,4 @@ This repo was done when working with ASTRI Security Lab, Hong Kong Applied Scien
 
 ## Reference
 [1. Source Code of Pedersen Commitment] https://asecuritysite.com/encryption/ped
+[2. Chinese Explanation] https://blog.csdn.net/mutourend/article/details/93739575 
