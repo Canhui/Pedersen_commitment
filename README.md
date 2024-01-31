@@ -61,5 +61,7 @@ This repo was done when working with ASTRI Security Lab, Hong Kong Applied Scien
 <br>
 
 ## Long-Term Support (LST) Log
+
 [31 Jan 2024]: Repetable validation, succeed.
+
 [30 Jan 2024]: Repetable validation, succeed.
