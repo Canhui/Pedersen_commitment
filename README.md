@@ -1,4 +1,4 @@
-## 1. Introduction (Pedersen 承诺)
+## 1. Introduction
 This repository motivates to introduce and run Pedersen commitment. The Pedersen commitment (Pedersen 承诺) is based on ECDSA bilinear pairing. The ECDSA bilinear pairing has certain cryptographic properties like additive homomorphism, from which we are able to do Pedersen commitment verification.   
 
 <br>
