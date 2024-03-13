@@ -1,5 +1,5 @@
 ## 1. Introduction
-This repository motivates to introduce and run Pedersen commitment. The Pedersen commitment is based on ECDSA bilinear pairing. The ECDSA bilinear pairing has certain cryptographic properties like additive homomorphism, from which we are able to do Pedersen commitment verification.   
+This repository motivates to introduce and run Pedersen commitment. The Pedersen commitment (Pedersen 承诺) is based on ECDSA bilinear pairing. The ECDSA bilinear pairing has certain cryptographic properties like additive homomorphism, from which we are able to do Pedersen commitment verification.   
 
 <br>
 
@@ -56,11 +56,14 @@ This repo was done when working with ASTRI Security Lab, Hong Kong Applied Scien
 
 ## Reference
 [1. Source Code of Pedersen Commitment] https://asecuritysite.com/encryption/ped
+
 [2. Chinese Explanation] https://blog.csdn.net/mutourend/article/details/93739575 
 
 <br>
 
 ## Long-Term Support (LST) Log
+
+[12 Mar 2024]: Repetable validation, succeed.
 
 [31 Jan 2024]: Repetable validation, succeed.
 
